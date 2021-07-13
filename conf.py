@@ -29,7 +29,7 @@ author = 'sphinx-action Test Suite'
 extensions = [
 	"sphinx_rtd_theme",
 	"sphinx_tabs.tabs",
-	"myst-parser"
+	"myst_parser"
 ]
 
 # Add any paths that contain templates here, relative to this directory.
